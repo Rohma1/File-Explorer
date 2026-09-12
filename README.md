@@ -79,7 +79,7 @@ For example:
 
 The project demonstrates how Java can be used to interact with the operating system's file system through a graphical user interface. It also demonstrates the practical use of Java collections such as `HashMap` and `TreeMap`.
 
-#AUTHOR
+
 ROHMA SARFARAZ
 
 Software Engineering Student  
